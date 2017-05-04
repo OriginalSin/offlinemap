@@ -1,0 +1,27 @@
+{
+  "name": "offlinemap",
+  "version": "1.0.0",
+  "description": "Offline map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OriginalSin/offlinemap.git"
+  },
+  "keywords": [
+    "offline"
+  ],
+  "author": "Serg Alekseev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OriginalSin/offlinemap/issues"
+  },
+  "homepage": "https://github.com/OriginalSin/offlinemap#readme",
+  "dependencies": {
+    "node-base64-image": "^1.0.3",
+    "request": "^2.81.0",
+    "write": "^0.3.3"
+  }
+}

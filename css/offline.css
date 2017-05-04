@@ -1,0 +1,9 @@
+html, body, #map {
+	height: 100%;
+	margin: 0px;
+}
+.leaflet-popup-content .name {
+	font-weight: bold;
+}
+/*
+*/
